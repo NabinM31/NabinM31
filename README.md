@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Nabin Mandal 👋
+### M.Tech in Electronics Design | Aspiring Data Analyst
 
-<!--
-**NabinM31/NabinM31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about transforming raw data into meaningful insights using modern data tools and techniques. Currently, I'm focused on developing my skills in data visualization, SQL, and Python-based data analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack I'm Learning
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🌱 Current Learning Journey
+- Learning SQL queries with PostgreSQL  
+- Practicing dashboards in Power BI  
+- Exploring Python for data cleaning & analysis  
+- Building Excel-based dashboards  
+- Starting hands-on projects with Tableau  
+
+---
+
+## 📊 Featured Projects (coming soon)
+- [ ] PostgreSQL Practice Set
+- [ ] Power BI Sales Dashboard
+- [ ] Python Data Cleaning Scripts
+- [ ] Tableau Storytelling Dashboard
+- [ ] Excel KPI Dashboard
+
+---
+
+## 📈 GitHub Stats
+![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabinMandal&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NabinMandal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOURUSERNAME)  
+[Email me](mailto:yourmail@example.com)
+
+---
+
+> “Learning is a never-ending journey—I'm coding, analyzing, and visualizing my way through it.”
