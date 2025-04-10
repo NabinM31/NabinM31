@@ -4,6 +4,7 @@
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-mandal-b83723310/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nabinmandal34@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nabin.mandal.14)
 
 
 I’m passionate about transforming raw data into meaningful insights using modern data tools and techniques. Currently, I'm focused on developing my skills in data visualization, SQL, and Python-based data analytics.
