@@ -1,49 +1,36 @@
-# Hi there, I'm Nabin Mandal 👋
-### M.Tech in Electronics Design | Aspiring Data Analyst
------
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-mandal-b83723310/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nabinmandal34@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nabin.mandal.14)
+<h1 align="center">Hi 👋, I'm Nabin Mandal</h1>
+<h3 align="center">A passionate Data Analyst specializing in SQL and Power BI</h3>
 
-
-I’m passionate about transforming raw data into meaningful insights using modern data tools and techniques. Currently, I'm focused on developing my skills in data visualization, SQL, and Python-based data analytics.
+- 🔭 I’m currently working on **real-world projects using SQL and Power BI**
+- 🌱 I’m continuously learning **Data Visualization, Storytelling, and DAX**
+- 💼 Check out my project portfolio: [My Data Projects](https://github.com/yourusername/my-data-projects)
+- 📫 How to reach me: **[nabinmandal31@gmail.com](mailto:nabinmandal31@gmail.com)**
 
 ---
 
-## 🚀 Tech Stack I'm Learning
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+## 🧰 Languages & Tools
+
+![SQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🌱 Current Learning Journey
-- Learning SQL queries with PostgreSQL  
-- Practicing dashboards in Power BI  
-- Exploring Python for data cleaning & analysis  
-- Building Excel-based dashboards  
-- Starting hands-on projects with Tableau  
+## 📊 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [👥 HR Analytics (Power BI)](https://github.com/yourusername/my-data-projects/blob/main/Power%20BI/HR_analytics_Dashboard.md) | Visual dashboard analyzing employee attrition & engagement |
+| [🎬 Netflix SQL Analysis](https://github.com/yourusername/my-data-projects/blob/main/SQL/Netflix_Project.md) | SQL insights into content types, genres, and trends |
 
 ---
 
-## 📊 Featured Projects (coming soon)
-- [ ] PostgreSQL Practice Set
-- [ ] Power BI Sales Dashboard
-- [ ] Python Data Cleaning Scripts
-- [ ] Tableau Storytelling Dashboard
-- [ ] Excel KPI Dashboard
+## 🔗 Let's Connect
 
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nabin-mandal-b83723310/)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white)](https://www.facebook.com/nabin.mandal.14)
 
 ---
 
-> “Learning is a never-ending journey—I'm coding, analyzing, and visualizing my way through it.”
+<p align="center">Thanks for visiting! 🌟</p>
