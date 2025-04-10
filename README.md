@@ -1,7 +1,9 @@
 # Hi there, I'm Nabin Mandal 👋
 ### M.Tech in Electronics Design | Aspiring Data Analyst
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nabin-mandal-b83723310/)
-
+-----
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-mandal-b83723310/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nabinmandal34@gmail.com)
 
 
 I’m passionate about transforming raw data into meaningful insights using modern data tools and techniques. Currently, I'm focused on developing my skills in data visualization, SQL, and Python-based data analytics.
@@ -34,9 +36,12 @@ I’m passionate about transforming raw data into meaningful insights using mode
 - [ ] Excel KPI Dashboard
 
 ---
+### 📊 GitHub Stats
 
-## 📈 GitHub Stats
-![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabinMandal&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
