@@ -38,8 +38,8 @@ I’m passionate about transforming raw data into meaningful insights using mode
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NabinMandal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOURUSERNAME)  
-[Email me](mailto:yourmail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NabinMandal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/NabinMandal)  
+[Email me](nabinmandal34@gmail.com)
 
 ---
 
