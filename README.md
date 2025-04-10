@@ -34,18 +34,18 @@
 
 | Project | Description |
 |--------|-------------|
-| [👥 HR Analytics Dashboard](https://github.com/yourusername/my-data-projects/blob/main/Power%20BI/HR_analytics_Dashboard.md) | Visualize employee attrition and satisfaction levels. |
-| [📱 Mobile Sales Dashboard](https://github.com/yourusername/my-data-projects/blob/main/Power%20BI/Mobiles_Sales_Dashboard.md) | Track mobile sales trends by brand and region. |
+| [👥 HR Analytics Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/HR_analytics_Dashboard.md) | Visualize employee attrition and satisfaction levels. |
+| [📱 Mobile Sales Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/Mobiles_Sales_Dashboard.md) | Track mobile sales trends by brand and region. |
 
 ### 🧾 SQL Projects
 
 | Project | Description |
 |--------|-------------|
-| [🎬 Netflix Analysis](https://github.com/yourusername/my-data-projects/blob/main/SQL/Netflix_Project.md) | Explore Netflix’s catalog with SQL queries. |
-| [🛒 Retail Sales Report](https://github.com/yourusername/my-data-projects/blob/main/SQL/Retail_Sales_Project.md) | Analyze sales trends and customer behavior. |
-| [🥦 Blinkit Grocery Data](https://github.com/yourusername/my-data-projects/blob/main/SQL/Blinkit_Grocery_Project.md) | Product demand and inventory analysis. |
-| [🏥 Hospital Analytics](https://github.com/yourusername/my-data-projects/blob/main/SQL/Hospital_Data_Project.md) | Insights on treatments, patients, and departments. |
-| [📚 Bookstore Insights](https://github.com/yourusername/my-data-projects/blob/main/SQL/Online_BookStore_Project.md) | Track top authors and low stock alerts. |
+| [🎬 Netflix Analysis](https://github.com/NabinM31/my-data-projects/blob/main/SQL/Netflix_Project.md) | Explore Netflix’s catalog with SQL queries. |
+| [🛒 Retail Sales Report](https://github.com/NabinM31/my-data-projects/blob/main/SQL/Retail_Sales_Project.md) | Analyze sales trends and customer behavior. |
+| [🥦 Blinkit Grocery Data](https://github.com/NabinM31/my-data-projects/blob/main/SQL/Blinkit_Grocery_Project.md) | Product demand and inventory analysis. |
+| [🏥 Hospital Analytics](https://github.com/NabinM31/my-data-projects/blob/main/SQL/Hospital_Data_Project.md) | Insights on treatments, patients, and departments. |
+| [📚 Bookstore Insights](https://github.com/NabinM31/my-data-projects/blob/main/SQL/Online_BookStore_Project.md) | Track top authors and low stock alerts. |
 
 ---
 
