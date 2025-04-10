@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **real-world projects using SQL and Power BI**
 - 🌱 I’m continuously learning **Data Visualization, Storytelling, and DAX**
-- 💼 Check out my project portfolio: [My Data Projects](https://github.com/yourusername/my-data-projects)
+- 💼 Check out my project portfolio: [My Data Projects](https://github.com/NabinM31/my-data-projects)
 - 📫 How to reach me: **[nabinmandal31@gmail.com](mailto:nabinmandal31@gmail.com)**
 
 ---
