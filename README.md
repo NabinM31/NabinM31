@@ -1,5 +1,8 @@
-# Hi, I'm Nabin Mandal 👋
+# Hi there, I'm Nabin Mandal 👋
 ### M.Tech in Electronics Design | Aspiring Data Analyst
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nabin-mandal-b83723310/)
+
+
 
 I’m passionate about transforming raw data into meaningful insights using modern data tools and techniques. Currently, I'm focused on developing my skills in data visualization, SQL, and Python-based data analytics.
 
@@ -34,14 +37,6 @@ I’m passionate about transforming raw data into meaningful insights using mode
 
 ## 📈 GitHub Stats
 ![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabinMandal&show_icons=true&theme=radical)
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NabinMandal-blue?style=flat&logo=linkedin)](www.linkedin.com/in/
-nabin-mandal-b83723310
-)  
-[Email me] (nabinmandal34@gmail.com)
 
 ---
 
