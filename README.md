@@ -57,14 +57,12 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabinM31&show_icons=true&theme=radical&hide_border=false&cache_seconds=3600)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabinM31&layout=compact&theme=radical&hide_border=false)
+
 
 > “Learning is a never-ending journey—I'm coding, analyzing, and visualizing my way through it.”
 
