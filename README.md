@@ -34,7 +34,7 @@
 | Project | Description |
 |--------|-------------|
 | [👥 HR Analytics Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/HR_analytics_Dashboard.md) | Visualize employee attrition and satisfaction levels. |
-| [📱 Mobile Sales Dashboard](https://github.com/NabinM31/my-data-projects/blob/main/Power%20BI/Mobiles_Sales_Data_Dashboard.md) | Track mobile sales trends by brand and region. |
+| [📱 Mobile Sales Dashboard](https://github.com/NabinM31/Mobiles_Sales_Data_Dashboard.md) | Track mobile sales trends by brand and region. |
 | [💼 Investment Analysis Dashboard](https://github.com/NabinM31/Investment-Analysis-Dashboard) | Analyze investor goals, preferences, and behavior using Power BI. |
 
 ### 🧾 SQL Projects
